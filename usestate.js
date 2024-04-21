@@ -1,0 +1,22 @@
+ export const dataobject=[
+    {
+        username:"nitika",
+        age:20,
+        id:1,
+    },
+    {
+        username:"john",
+        age:23,
+        id:2,
+    },
+    {
+        username:"raman",
+        age:24,
+        id:3,
+    },
+    {
+        username:"jashan",
+        age:25,
+        id:4,
+    },
+]
